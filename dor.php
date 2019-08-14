@@ -1,6 +1,6 @@
 <?php
 #Author = Cahyadi
-#Upload date = 0-0-2019
+#Upload date = 04-08-2019
 #Update = 14-08-2019(v2.0)
 $r = "\033[0m";
 $m = "\033[31;1;5m";
