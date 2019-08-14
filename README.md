@@ -1,4 +1,4 @@
-Tembak paket Xl & Three
+Tembak paket Xl & Three(3)
 
 $pkg upgrade && pkg update
 $pkg install php
