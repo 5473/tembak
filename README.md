@@ -1,5 +1,4 @@
-# tembak
-Tembak paket xl xtra_kuota,xtra_combo,dll
+Tembak paket Xl & Three
 
 $pkg upgrade && pkg update
 $pkg install php
