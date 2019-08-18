@@ -16,14 +16,14 @@ $tembak =
 ".$h."Author : ".$p."Cahyadi
 ".$h."Github : ".$p."https://github.com/ColdDark29/
 ".$h."Versi  : ".$p."2.0
-".$b."───────────────────────────────────────────────────\n".$r;
+".$b."──────────────────────────────────────────────────\n".$r;
 function m(){
     global $tembak,$h,$m,$k,$p,$r;
     system("clear");
     echo $tembak;
-    echo $h."[★]====[ ".$k."1".$m.".".$h." XL Axiata                      ]====[★]\n";
-    echo $h."[★]====[ ".$k."2".$m.".".$h." Three(3)                       ]====[★]\n";
-    echo $h."[★]====[ ".$k."3".$m.". Keluar                         ".$h."]====[★]\n".$r;
+    echo $h."[★]====[ ".$k."1".$m.".".$h." XL Axiata                     ]====[★]\n";
+    echo $h."[★]====[ ".$k."2".$m.".".$h." Three(3)                      ]====[★]\n";
+    echo $h."[★]====[ ".$k."3".$m.". Keluar                        ".$h."]====[★]\n".$r;
     pm();
 };
 function pm(){
