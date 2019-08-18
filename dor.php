@@ -2,6 +2,7 @@
 #Author = Cahyadi
 #Upload date = 04-08-2019
 #Update = 14-08-2019(v2.0)
+#Update = 18-08-2019(v3.0)
 $r = "\033[0m";
 $m = "\033[31;1;5m";
 $h = "\033[32;1;5m";
@@ -15,7 +16,7 @@ $tembak =
 ".$h."░▀░ ▀▀▀ ▀░░░▀ ▀▀░ ▀░▀ ▀░▀▀ ".$k." | \(_|(_) | (_]
 ".$h."Author : ".$p."Cahyadi
 ".$h."Github : ".$p."https://github.com/ColdDark29/
-".$h."Versi  : ".$p."2.0
+".$h."Versi  : ".$p."3.0
 ".$b."──────────────────────────────────────────────────\n".$r;
 function m(){
     global $tembak,$h,$m,$k,$p,$r;
