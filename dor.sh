@@ -18,7 +18,7 @@ echo -n "\033[32;1;5m[?] Pilih \033[33;1;5m=> \033[37;1;5m"
 read pilih;
 if [ $pilih -eq 1 ]
 then
-    php XlAxiata.php
+    php XLAxiata.php
 elif [ $pilih -eq 2 ]
 then
     php Three.php
